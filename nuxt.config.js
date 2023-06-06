@@ -13,10 +13,6 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
-  routeRules: {
-    // Use client-side rendering for all routes
-    '/**': { ssr: false },
-  },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
