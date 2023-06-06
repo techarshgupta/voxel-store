@@ -1,0 +1,96 @@
+@font-face {
+  font-family: "InstrumentSans-Bold";
+  src: url(../Instrument_Sans/static/InstrumentSans-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans-BoldItalic";
+  src: url(../Instrument_Sans/static/InstrumentSans-BoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans-Italic";
+  src: url(../Instrument_Sans/static/InstrumentSans-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans-Medium";
+  src: url(../Instrument_Sans/static/InstrumentSans-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans-MediumItalic";
+  src: url(../Instrument_Sans/static/InstrumentSans-MediumItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans-Regular";
+  src: url(../Instrument_Sans/static/InstrumentSans-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans-SemiBold";
+  src: url(../Instrument_Sans/static/InstrumentSans-SemiBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans-SemiBoldItalic";
+  src: url(../Instrument_Sans/static/InstrumentSans-SemiBoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_Condensed-Bold";
+  src: url(../Instrument_Sans/static/InstrumentSans_Condensed-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_Condensed-BoldItalic";
+  src: url(../Instrument_Sans/static/InstrumentSans_Condensed-BoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_Condensed-Italic";
+  src: url(../Instrument_Sans/static/InstrumentSans_Condensed-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_Condensed-MediumItalic";
+  src: url(../Instrument_Sans/static/InstrumentSans_Condensed-MediumItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_Condensed-Regular";
+  src: url(../Instrument_Sans/static/InstrumentSans_Condensed-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_Condensed-Medium";
+  src: url(../Instrument_Sans/static/InstrumentSans_Condensed-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_Condensed-SemiBold";
+  src: url(../Instrument_Sans/static/InstrumentSans_Condensed-SemiBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_Condensed-SemiBoldItalic";
+  src: url(../Instrument_Sans/static/InstrumentSans_Condensed-SemiBoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_SemiCondensed-Bold";
+  src: url(../Instrument_Sans/static/InstrumentSans_SemiCondensed-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_SemiCondensed-BoldItalic";
+  src: url(../Instrument_Sans/static/InstrumentSans_SemiCondensed-BoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_SemiCondensed-Italic";
+  src: url(../Instrument_Sans/static/InstrumentSans_SemiCondensed-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_SemiCondensed-Medium";
+  src: url(../Instrument_Sans/static/InstrumentSans_SemiCondensed-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_SemiCondensed-MediumItalic";
+  src: url(../Instrument_Sans/static/InstrumentSans_SemiCondensed-MediumItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_SemiCondensed-Regular";
+  src: url(../Instrument_Sans/static/InstrumentSans_SemiCondensed-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_SemiCondensed-SemiBold";
+  src: url(../Instrument_Sans/static/InstrumentSans_SemiCondensed-SemiBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: "InstrumentSans_SemiCondensed-SemiBoldItalic";
+  src: url(../Instrument_Sans/static/InstrumentSans_SemiCondensed-SemiBoldItalic.ttf) format('truetype');
+}
