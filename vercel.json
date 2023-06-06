@@ -4,12 +4,7 @@
       {
         "src": "nuxt.config.js",
         "use": "@nuxtjs/vercel-builder",
-        "config": {
-          "generateStaticRoutes": true,
-          "tscOptions": {
-            "sourceMap": false
-          }
-        }
+        "config": {}
       }
     ]
   }
