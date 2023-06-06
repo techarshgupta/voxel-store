@@ -20,6 +20,10 @@ export default {
     "~assets/css/style.css",
   ],
 
+  router: {
+    base: '/voxel-store/'
+  },
+
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
 
